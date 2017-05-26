@@ -128,6 +128,7 @@ adjective <- c(
   "stupendous",
   "stylish",
   "sublime",
+  "subliminal",
   "supah",
   "super",
   "super-duper",
