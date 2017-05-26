@@ -1,7 +1,7 @@
 
 
 
-# praise
+# praise - Original author Gabor Csardi. Repo copied from RLadies Github for use at EARL 2017
 
 > Praise Users
 
