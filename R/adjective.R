@@ -81,6 +81,7 @@ adjective <- c(
   "magnifique",
   "majestic",
   "marvelous",
+  "marveloso",
   "mathematical",
   "metal",
   "mind-blowing",
